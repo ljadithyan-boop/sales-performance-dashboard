@@ -63,7 +63,7 @@ This project demonstrates a complete Business Intelligence reporting workflow �
 
 ## 🖼️ Dashboard Preview
 
-> *(Upload a screenshot of your dashboard and it will appear here)*
+> 
 
 ![Dashboard Preview](dashboard_screenshot.png)
 
